@@ -1,4 +1,4 @@
-# Understading_a_Breakthrough_in_AI_Research_DeepSeek
+# Understading_a_Breakthrough_in_AI_Research_of_DeepSeek
 
 📌 **DeepSeek R1 Explained**
 
