@@ -14,5 +14,6 @@ Key Takeaways 🚀
 
 ✅ Costs $2.19 for a million of tokens (80K words) vs $60 OpenAI costs.
 
+details in "approach_explained" directory: https://github.com/nikita-chistyakov/Understading_DeepSeek/blob/main/approach_explained
 
 full paper: https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf
