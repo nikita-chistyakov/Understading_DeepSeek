@@ -13,3 +13,6 @@ Key Takeaways 🚀
 ✅ Model distillation makes high-quality AI more accessible by creating smaller, efficient versions.
 
 ✅ Costs $2.19 for a million of tokens (80K words) vs $60 OpenAI costs.
+
+
+full paper: https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf
