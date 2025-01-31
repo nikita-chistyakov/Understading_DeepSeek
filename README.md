@@ -1,10 +1,10 @@
-# Understading_A_Breakthrough_in_AI_Research_DeepSeek
+# Understading_a_Breakthrough_in_AI_Research_DeepSeek
 
 📌 **DeepSeek R1 Explained**
 
 Key Takeaways 🚀
 
-✅ DeepSeek R1 improves over time using reinforcement learning and self-evaluation.
+✅ DeepSeek R1 improves over time using reinforcement learning and self-evaluation (RL).
 
 ✅ Chain of Thought reasoning allows it to explain and refine its answers (CoT).
 
