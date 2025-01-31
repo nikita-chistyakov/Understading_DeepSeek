@@ -3,10 +3,15 @@
 📌 **DeepSeek R1 Explained**
 
 Key Takeaways 🚀
+
 ✅ DeepSeek R1 improves over time using reinforcement learning and self-evaluation.
+
 ✅ Chain of Thought reasoning allows it to explain and refine its answers (CoT).
+
 ✅ Group Relative Policy Optimization stabilizes learning and decision-making (GRPO).
+
 ✅ Model distillation makes high-quality AI more accessible by creating smaller, efficient versions.
+
 
 
 ├── 1️⃣ **Introduction**
